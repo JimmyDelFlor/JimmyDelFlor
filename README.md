@@ -85,15 +85,6 @@ Dashboard de análisis de ventas con modelado dimensional en estrella y consulta
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JimmyDelFlor&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyDelFlor&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ## 📫 Contacto
 
 ¿Tienes una oportunidad de práctica o quieres colaborar en un proyecto? ¡Hablemos!
